@@ -54,7 +54,7 @@ Develop the following topics regarding your chosen distribution and prepare a pr
 - Strengths (in terms of cybersecurity)
 - Weaknesses (In terms of cybersecurity)
 
->💡 **Hint: Sites like [SlideCarnival](https://www.slidescarnival.com/es) can help you with an elegant design ready to use, so you can focus more on content and less on aesthetic details.
+>💡 **Hint: Sites like [SlideCarnival](https://www.slidescarnival.com/) can help you with an elegant design ready to use, so you can focus more on content and less on aesthetic details.
 
 ### 3. Prepare your presentation
 
