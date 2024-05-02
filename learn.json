@@ -1,0 +1,25 @@
+{
+	"slug" : "getting-to-know-linux-distributions",
+	"title" : {
+		"en":"Getting to know GNU/Linux distributions",
+		"es":"Conociendo distribuciones GNU/Linux"
+	},
+	"status": "draft",
+	"translations": ["us","es"],
+	"technologies": ["ciberseguridad", "linux"],
+	"difficulty": "beginner",
+	"syntax": "markdown",
+	"duration" : 3,
+  "projectType": "project",
+	"description" : {
+		"es":"Estudia y prepárate a explicar las características, bondades y debilidades de una de las tantas distribuciones GNU/Linux",
+		"en":"Study and prepare yourself to explain the features, strengths and weaknesses of one of the many GNU/Linux distributions."
+	},
+	"delivery": {
+		"instructions": {
+			"us": "Attach its URL to your 4geeks.com project. Don't forget to make the presentation public so that it can be reviewed.",
+			"es": "Adjunta la URL de ésta en tu proyecto de 4geeks.com. No olvides hacer pública la presentación para que pueda ser revisada."
+		},
+		"formats": ["url"]
+	}
+}
