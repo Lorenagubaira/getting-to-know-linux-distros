@@ -1,4 +1,4 @@
-# Cpm
+# Conociendo distrubuciones GNU/Linux
 
 <!-- hide -->
 > By [@arnaldoperez](https://github.com/arnaldoperez) and [other contributors](https://github.com/4GeeksAcademy/gettintg-to-know-linux-distros/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
