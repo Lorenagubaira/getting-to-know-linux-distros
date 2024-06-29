@@ -4,13 +4,14 @@
 		"us":"Getting to know GNU/Linux distributions",
 		"es":"Conociendo distribuciones GNU/Linux"
 	},
+	"preview": "https://storage.googleapis.com/screenshots-breathecode/9b4602c3e2a0ac2b50b9d57f90e3fa29c39a0e07722ded45bf1e11e031bb4c55",
 	"status": "draft",
 	"translations": ["us","es"],
 	"technologies": ["ciberseguridad", "linux"],
 	"difficulty": "beginner",
 	"syntax": "markdown",
 	"duration" : 3,
-  "projectType": "project",
+  	"projectType": "project",
 	"description" : {
 		"es":"Estudia y prepárate a explicar las características, bondades y debilidades de una de las tantas distribuciones GNU/Linux",
 		"us":"Study and prepare yourself to explain the features, strengths and weaknesses of one of the many GNU/Linux distributions."
