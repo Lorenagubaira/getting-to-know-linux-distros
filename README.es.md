@@ -9,6 +9,9 @@
 
 <!-- endhide -->
 
+Este proyecto está diseñado para realizarse durante la clase y no debe tomar más de 40 minutos, incluidas las presentaciones.
+Cada equipo elegirá 2 de las distribuciones de Linux más prominentes y tendrá 5 minutos para presentarlas a la clase. No repitan distribuciones; los equipos deben hablar sobre diferentes distribuciones, ningún equipo puede repetir.
+
 ## 🌱 ¿Cómo empezar este proyecto?
 
 Crea un documento nuevo para trabajar con tu pareja el desarrollo de las instrucciones que se te presentan a continuación. Para facilitar el trabajo colaborativo puedes usar [Presentaciones de Google](slides.new) y luego invitar a tu compañero via correo electrónico para empezar a trabajar.
