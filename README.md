@@ -1,6 +1,6 @@
+<!-- hide -->
 # Getting to know GNU/Linux distros
 
-<!-- hide -->
 > By [@arnaldoperez](https://github.com/arnaldoperez) and [other contributors](https://github.com/4GeeksAcademy/gettintg-to-know-linux-distros/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
 ![last commit](https://img.shields.io/github/last-commit/4geeksacademy/gettintg-to-know-linux-distros)
