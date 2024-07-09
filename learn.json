@@ -21,6 +21,7 @@
 			"us": "Attach its URL to your 4geeks.com project. Don't forget to make the presentation public so that it can be reviewed.",
 			"es": "Adjunta la URL de ésta en tu proyecto de 4geeks.com. No olvides hacer pública la presentación para que pueda ser revisada."
 		},
+		"regex_url": "https://docs.google.com/presentation",
 		"formats": ["url"]
 	}
 }
