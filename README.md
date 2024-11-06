@@ -10,62 +10,63 @@
 <!-- endhide -->
 
 This project is meant to be done during class, and it should take no longer than 40 minutes, including the presentations.
-Each team will choose 2 of the most prominent Linux distributions and will have 5 minutes to present them to the class, do not repeat distributions, teams should talk about different distros, no team can repeat.
+Each team will choose 2 of the most prominent Linux distributions and will have 5 minutes to present them to the class. Each team should present a different distribution.
 
 ## 🌱 How to start this project?
 
-Create a new document to work with your partner or team to develop the instructions below? To facilitate collaborative work you can use [Google Presentations](slides.new) and then invite your partner via email to start working.
+- [ ] Create a new document to collaborate with your partner or team.
+- [ ] Open [Google Presentations](https://workspace.google.com/products/slides/) and invite your partner to edit.
 
 ## 📝 Instructions
 
 ### 1. Assemble your team and choose a layout.
 
-Choose a partner to do this practice with and together select a distribution to study. There are many GNU/Linux operating system distributions, each with specific particularities and purposes.
+- [ ] Choose a partner to work with.
+- [ ] Select a Linux distribution from the following list or research one of your choice:
+    - Ubuntu
+    - RedHat
+    - Fedora
+    - PopOs
+    - Arch Linux
+    - ZorinOs
+    - Proxmox
+    - Rocky Linux
+    - RaspberryPi OS
+    - Manjaro
+    - Slackware
+    - Asahi Linux
+    - OpenSUSE
+    - CentOS Stream
+    - Gentoo
+    - Garuda Linux
+    - Kali
+    - Steam OS
 
-While you can choose from the many that exist, here is a list of some of the most popular ones.
-
-- Ubuntu
-- RedHat
-- Fedora
-- PopOs
-- Arch Linux
-- ZorinOs
-- Proxmox
-- Rocky Linux
-- RaspberryPi Os
-- Manjaro
-- Slackware
-- Asahi Linux
-- Open Suse
-- CentOS Stream
-- Gentoo
-- Garuda Linux
-- Kali
-- Steam OS
-
-You can see more distributions in [this article.](https://en.wikipedia.org/wiki/List_of_Linux_distributions)
+> Check [this article](https://en.wikipedia.org/wiki/List_of_Linux_distributions) for additional Linux distributions.
 
 ### 2. Prepare your presentation
 
-Develop the following topics regarding your chosen distribution and prepare a presentation to share with the entire class. You should cover the following topics
+- [ ] Research and include the following information about your chosen distribution:
+    - [ ] What distro it is based on.
+    - [ ] Key features.
+    - [ ] Intended use.
+    - [ ] Packages.
+    - [ ] Supported platforms.
+    - [ ] Strengths (in terms of cybersecurity).
+    - [ ] Weaknesses (in terms of cybersecurity).
+    
+- Optional: Use [SlideCarnival](https://www.slidescarnival.com/) to simplify design work.
 
-- What distro it is based on
-- Key features
-- Intended use
-- Packages
-- Supported platforms
-- Strengths (in terms of cybersecurity)
-- Weaknesses (In terms of cybersecurity)
+### 3. Prepare to present your findings
 
->💡 **Hint: Sites like [SlideCarnival](https://www.slidescarnival.com/) can help you with an elegant design ready to use, so you can focus more on content and less on aesthetic details.
-
-### 3. Prepare your presentation
-
-Present your work in front of your peers and compare with other distributions the aspects you consider most relevant. Keep an open mind to questions and observations from the group.
+- [ ] Practice presenting your work to be ready to share in class.
+- [ ] Prepare to discuss and compare your chosen distribution with others.
 
 ## 🚛 How to deliver this project?
 
-Once the presentation is ready, attach the URL to your 4geeks.com project. Don't forget to make the presentation public so that it can be reviewed.
+- [ ] Once the presentation is complete, attach the URL to your 4Geeks.com project.
+
+Ensure the presentation is set to public for review!
 
 <!-- hide -->
 ## Contributors

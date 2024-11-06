@@ -1,71 +1,70 @@
 <!-- hide -->
-# Conociendo distrubuciones GNU/Linux
+# Conociendo las distribuciones GNU/Linux
 
-> By [@arnaldoperez](https://github.com/arnaldoperez) and [other contributors](https://github.com/4GeeksAcademy/gettintg-to-know-linux-distros/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
+> Por [@arnaldoperez](https://github.com/arnaldoperez) y [otros colaboradores](https://github.com/4GeeksAcademy/gettintg-to-know-linux-distros/graphs/contributors) en [4Geeks Academy](https://4geeksacademy.co/)
 
-![last commit](https://img.shields.io/github/last-commit/4geeksacademy/gettintg-to-know-linux-distros)
-[![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://4geeks.com)
-[![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
+![último commit](https://img.shields.io/github/last-commit/4geeksacademy/gettintg-to-know-linux-distros)
+[![construido por desarrolladores](https://img.shields.io/badge/build_by-Developers-blue)](https://4geeks.com)
+[![seguimiento en Twitter](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
 <!-- endhide -->
 
-Este proyecto está diseñado para realizarse durante la clase y no debe tomar más de 40 minutos, incluidas las presentaciones.
-Cada equipo elegirá 2 de las distribuciones de Linux más prominentes y tendrá 5 minutos para presentarlas a la clase. No repitan distribuciones; los equipos deben hablar sobre diferentes distribuciones, ningún equipo puede repetir.
+Este proyecto está diseñado para realizarse durante la clase y no debería tomar más de 40 minutos, incluyendo las presentaciones. Cada equipo elegirá 2 de las distribuciones de Linux más destacadas y tendrá 5 minutos para presentarlas a la clase. Cada equipo debe presentar una distribución diferente.
 
-## 🌱 ¿Cómo empezar este proyecto?
+## 🌱 ¿Cómo comenzar este proyecto?
 
-Crea un documento nuevo para trabajar con tu pareja el desarrollo de las instrucciones que se te presentan a continuación. Para facilitar el trabajo colaborativo puedes usar [Presentaciones de Google](slides.new) y luego invitar a tu compañero via correo electrónico para empezar a trabajar.
+- [ ] Crea un nuevo documento para colaborar con tu compañero o equipo.
+- [ ] Abre [Google Presentations](https://workspace.google.com/products/slides/) e invita a tu compañero a editar.
 
 ## 📝 Instrucciones
 
-### 1. Arma tu equipo y elije una distribución
+### 1. Forma tu equipo y elige un diseño.
 
-Escoge una pareja con quien realizar ésta práctica y juntos selecciones una distribución la cual estudiar. Hay muchas distribuciones de sistemas operativos GNU/Linux, cada uno con particularidades y propositos específicos.
-
-Si bien puedes escoger de entre tantas que existen, aquí te dejamos una lista de algunas de las más populares.
-
-- Ubuntu
-- RedHat
-- Fedora
-- PopOs
-- Arch Linux
-- ZorinOs
-- Proxmox
-- Rocky Linux
-- RaspberryPi Os
-- Manjaro
-- Slackware
-- Asahi Linux
-- Open Suse
-- CentOS Stream
-- Gentoo
-- Garuda Linux
-- Kali
-- Steam OS
-
-Puedes ver mas distribuciones en [éste artículo.](https://en.wikipedia.org/wiki/List_of_Linux_distributions)
+- [ ] Elige un compañero para trabajar.
+- [ ] Selecciona una distribución de Linux de la siguiente lista o investiga una de tu elección:
+    - Ubuntu
+    - RedHat
+    - Fedora
+    - PopOs
+    - Arch Linux
+    - ZorinOs
+    - Proxmox
+    - Rocky Linux
+    - RaspberryPi OS
+    - Manjaro
+    - Slackware
+    - Asahi Linux
+    - OpenSUSE
+    - CentOS Stream
+    - Gentoo
+    - Garuda Linux
+    - Kali
+    - Steam OS
+    
+> Consulta [este artículo](https://en.wikipedia.org/wiki/List_of_Linux_distributions) para ver más distribuciones de Linux.
 
 ### 2. Prepara tu presentación
 
-Desarrolla los siguiente temas respecto a la distribución que elegiste y prepara una presentación para compartirla con toda la clase. Debes cubrir los siguientes temas
+- [ ] Investiga e incluye la siguiente información sobre la distribución elegida:
+    - [ ] En qué distribución se basa.
+    - [ ] Características principales.
+    - [ ] Uso previsto.
+    - [ ] Paquetes.
+    - [ ] Plataformas compatibles.
+    - [ ] Fortalezas (en términos de ciberseguridad).
+    - [ ] Debilidades (en términos de ciberseguridad).
 
-- En cual distro está basada
-- Características mas resaltantes
-- Uso al que está orientado
-- Paquetería
-- Plataformas que soporta
-- Fortalezas (En cuanto a ciberseguridad)
-- Debilidades (En cuanto a ciberseguridad)
-    
->💡 **Pista: Páginas como [SlideCarnival](https://www.slidescarnival.com/es) te pueden ayudar con un diseño elegante listo para utilizar, asi te puedes enfocar más en el contenido y menos en detalles estéticos.**
+- Opcional: Usa [SlideCarnival](https://www.slidescarnival.com/) para facilitar el diseño.
 
-### 3. Prepara tu presentación
+### 3. Prepárate para presentar tus hallazgos
 
-Presenta tu trabajo ante tus compañeros y compara con otras distribuciones los aspectos que consideras mas relevantes. Mantén la mente abierta a preguntas y observaciones del grupo.
+- [ ] Practica presentar tu trabajo para compartirlo en clase.
+- [ ] Prepárate para discutir y comparar la distribución elegida con otras.
 
 ## 🚛 ¿Cómo entregar este proyecto?
 
-Una vez lista la presentación adjunta la URL de ésta en tu proyecto de 4geeks.com. No olvides hacer pública la presentación para que pueda ser revisada.
+- [ ] Una vez que la presentación esté lista, adjunta la URL a tu proyecto en 4Geeks.com.
+- [ ] Asegúrate de que la presentación esté configurada como pública para su revisión.
 
 <!-- hide -->
 ## Colaboradores
