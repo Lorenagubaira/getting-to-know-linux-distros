@@ -7,14 +7,14 @@
 	"preview": "https://storage.googleapis.com/screenshots-breathecode/9b4602c3e2a0ac2b50b9d57f90e3fa29c39a0e07722ded45bf1e11e031bb4c55",
 	"status": "draft",
 	"translations": ["us","es"],
-	"technologies": ["ciberseguridad", "linux"],
+	"technologies": ["ciberseguridad", "linux", "cybersecurity"],
 	"difficulty": "beginner",
 	"syntax": "markdown",
 	"duration" : 3,
   	"projectType": "project",
 	"description" : {
-		"es":"Estudia y prepárate a explicar las características, bondades y debilidades de una de las tantas distribuciones GNU/Linux",
-		"us":"Study and prepare yourself to explain the features, strengths and weaknesses of one of the many GNU/Linux distributions."
+		"es":"Estudia y prepárate para explicar las características, fortalezas y debilidades de una de las muchas distribuciones populares de GNU/Linux. Trabajarás en equipo, investigarás una distribución específica y presentarás tus hallazgos. Esto te ayudará a comprender la variedad de sistemas Linux y sus diferentes aplicaciones, especialmente en ciberseguridad.",
+		"us":"Study and get ready to explain the features, strengths, and weaknesses of one of the many popular GNU/Linux distributions. You’ll work in teams, research a specific distro, and present your findings. This will help you understand the variety of Linux systems and their different applications, especially in cybersecurity."
 	},
 	"delivery": {
 		"instructions": {
@@ -22,6 +22,9 @@
 			"es": "Adjunta la URL de ésta en tu proyecto de 4geeks.com. No olvides hacer pública la presentación para que pueda ser revisada."
 		},
 		"regex": "https://docs.google.com/presentation",
-		"formats": ["url"]
+		"formats": ["url"],
+		 "telemetry": {
+	    	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=1614"
+	  }
 	}
 }
