@@ -11,15 +11,11 @@
 
 Este proyecto está diseñado para realizarse durante la clase y no debería tomar más de 40 minutos, incluyendo las presentaciones. Cada equipo elegirá 2 de las distribuciones de Linux más destacadas y tendrá 5 minutos para presentarlas a la clase. Cada equipo debe presentar una distribución diferente.
 
-<onlyfor saas="false" withBanner="false">
-
 ## 🌱 ¿Cómo comenzar este proyecto?
 
 - [ ] Crea un nuevo documento para colaborar con tu compañero o equipo.
 - [ ] Abre [Google Presentations](https://workspace.google.com/products/slides/) e invita a tu compañero a editar.
-
-</onlyfor>
-
+      
 ## 📝 Instrucciones
 
 ### 1. Forma tu equipo y elige un diseño.
