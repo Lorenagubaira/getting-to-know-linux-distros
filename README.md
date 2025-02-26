@@ -12,14 +12,10 @@
 This project is meant to be done during class, and it should take no longer than 40 minutes, including the presentations.
 Each team will choose 2 of the most prominent Linux distributions and will have 5 minutes to present them to the class. Each team should present a different distribution.
 
-<onlyfor saas="false" withBanner="false">
-
 ## 🌱 How to start this project?
 
 - [ ] Create a new document to collaborate with your partner or team.
 - [ ] Open [Google Presentations](https://workspace.google.com/products/slides/) and invite your partner to edit.
-
-</onlyfor>
 
 ## 📝 Instructions
 
